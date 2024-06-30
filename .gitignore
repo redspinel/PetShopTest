@@ -1,0 +1,3 @@
+# Ignore log files and allure reports
+logs/
+tests/reports/allure_reports/
