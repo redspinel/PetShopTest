@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: fedorkondratev
+Тело ответа: {"code":200,"type":"unknown","message":"fedorkondratev"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'fedorkondratev'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'fedorkondratev'}

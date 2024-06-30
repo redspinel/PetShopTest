@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: ilinmakar
+Тело ответа: {"code":200,"type":"unknown","message":"ilinmakar"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'ilinmakar'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'ilinmakar'}

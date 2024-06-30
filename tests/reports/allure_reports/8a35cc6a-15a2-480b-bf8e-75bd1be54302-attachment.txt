@@ -1,0 +1,4 @@
+INFO     utils.logger:logger.py:30 Удаление несуществующего пользователя: John Wick
+INFO     utils.logger:logger.py:30 HTTP статус код ответа: 404
+INFO     utils.logger:logger.py:30 Тело ответа: 
+INFO     utils.logger:logger.py:30 Заголовки ответа: {'Date': 'Sun, 30 Jun 2024 12:13:46 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, PUT', 'Access-Control-Allow-Headers': 'Content-Type, api_key, Authorization', 'Server': 'Jetty(9.2.9.v20150224)'}

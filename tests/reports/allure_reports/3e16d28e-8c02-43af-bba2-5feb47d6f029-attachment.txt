@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: sofon51
+Тело ответа: {"code":200,"type":"unknown","message":"sofon51"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'sofon51'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'sofon51'}

@@ -1,0 +1,4 @@
+Обновление данных созданного профиля...
+Username для обновления: pahomnosov
+Обновлённые данные профиля: {'id': '70', 'username': 'pahomnosov', 'firstName': 'Ryan', 'lastName': 'Субботина', 'email': 'pkuzmina@example.org', 'password': '$webf4Iq&9', 'phone': '+79229649584', 'userStatus': 5}
+Тело ответа: {"code":200,"type":"unknown","message":"70"}

@@ -1,0 +1,80 @@
+2024-06-30 15:05:43,819 - utils.logger - INFO - Созданный пользователь (в фикстуре created_user): {'id': '81', 'username': 'miron_1994', 'firstName': 'Гремислав', 'lastName': 'Мамонтов', 'email': 'askoldveselov@example.com', 'password': '!9EIKf@p7f', 'phone': '+79229644799', 'userStatus': 55}
+2024-06-30 15:05:43,820 - utils.logger - INFO - Создание пользователя...
+2024-06-30 15:05:44,953 - utils.logger - INFO - Тест 'test_create_user' - Данные пользователя: {'id': '81', 'username': 'miron_1994', 'firstName': 'Гремислав', 'lastName': 'Мамонтов', 'email': 'askoldveselov@example.com', 'password': '!9EIKf@p7f', 'phone': '+79229644799', 'userStatus': 55}
+2024-06-30 15:05:44,953 - utils.logger - INFO - Полученные данные с сервера: {'code': 200, 'type': 'unknown', 'message': '81'}
+2024-06-30 15:05:44,954 - utils.logger - INFO - ID в ответе (81) соответствует ожидаемому ID (81)
+2024-06-30 15:05:44,958 - utils.logger - INFO - Получить данные созданного профиля...
+2024-06-30 15:05:46,059 - utils.logger - INFO - Тест 'test_get_user' - Данные пользователя: {'id': '81', 'username': 'miron_1994', 'firstName': 'Гремислав', 'lastName': 'Мамонтов', 'email': 'askoldveselov@example.com', 'password': '!9EIKf@p7f', 'phone': '+79229644799', 'userStatus': 55}
+2024-06-30 15:05:46,061 - utils.logger - INFO - Ответ сервера: {"id":81,"username":"miron_1994","firstName":"Гремислав","lastName":"Мамонтов","email":"askoldveselov@example.com","password":"!9EIKf@p7f","phone":"+79229644799","userStatus":55}
+2024-06-30 15:05:46,061 - utils.logger - INFO - Заголовки ответа: {'Date': 'Sun, 30 Jun 2024 12:05:44 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, PUT', 'Access-Control-Allow-Headers': 'Content-Type, api_key, Authorization', 'Server': 'Jetty(9.2.9.v20150224)'}
+2024-06-30 15:05:46,061 - utils.logger - INFO - Полученные данные с сервера: {'id': 81, 'username': 'miron_1994', 'firstName': 'Гремислав', 'lastName': 'Мамонтов', 'email': 'askoldveselov@example.com', 'password': '!9EIKf@p7f', 'phone': '+79229644799', 'userStatus': 55}
+2024-06-30 15:05:46,063 - utils.logger - INFO - Данные пользователя успешно проверены и соответствуют ожидаемым значениям
+2024-06-30 15:06:39,304 - utils.logger - INFO - Созданный пользователь (в фикстуре created_user): {'id': '54', 'username': 'vishnjakovratibor', 'firstName': 'Иннокентий', 'lastName': 'Мамонтов', 'email': 'fokinustin@example.org', 'password': 'eqN5#2Ml#9', 'phone': '+79229644059', 'userStatus': 37}
+2024-06-30 15:06:39,305 - utils.logger - INFO - Создание пользователя...
+2024-06-30 15:06:40,500 - utils.logger - INFO - Тест 'test_create_user' - Данные пользователя: {'id': '54', 'username': 'vishnjakovratibor', 'firstName': 'Иннокентий', 'lastName': 'Мамонтов', 'email': 'fokinustin@example.org', 'password': 'eqN5#2Ml#9', 'phone': '+79229644059', 'userStatus': 37}
+2024-06-30 15:06:40,501 - utils.logger - INFO - Полученные данные с сервера: {'code': 200, 'type': 'unknown', 'message': '54'}
+2024-06-30 15:06:40,502 - utils.logger - INFO - ID в ответе (54) соответствует ожидаемому ID (54)
+2024-06-30 15:06:40,506 - utils.logger - INFO - Получить данные созданного профиля...
+2024-06-30 15:06:41,750 - utils.logger - INFO - Тест 'test_get_user' - Данные пользователя: {'id': '54', 'username': 'vishnjakovratibor', 'firstName': 'Иннокентий', 'lastName': 'Мамонтов', 'email': 'fokinustin@example.org', 'password': 'eqN5#2Ml#9', 'phone': '+79229644059', 'userStatus': 37}
+2024-06-30 15:06:41,751 - utils.logger - INFO - Ответ сервера: {"id":54,"username":"vishnjakovratibor","firstName":"Иннокентий","lastName":"Мамонтов","email":"fokinustin@example.org","password":"eqN5#2Ml#9","phone":"+79229644059","userStatus":37}
+2024-06-30 15:06:41,752 - utils.logger - INFO - Заголовки ответа: {'Date': 'Sun, 30 Jun 2024 12:06:40 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, PUT', 'Access-Control-Allow-Headers': 'Content-Type, api_key, Authorization', 'Server': 'Jetty(9.2.9.v20150224)'}
+2024-06-30 15:06:41,752 - utils.logger - INFO - Полученные данные с сервера: {'id': 54, 'username': 'vishnjakovratibor', 'firstName': 'Иннокентий', 'lastName': 'Мамонтов', 'email': 'fokinustin@example.org', 'password': 'eqN5#2Ml#9', 'phone': '+79229644059', 'userStatus': 37}
+2024-06-30 15:06:41,754 - utils.logger - INFO - Данные пользователя успешно проверены и соответствуют ожидаемым значениям
+2024-06-30 15:06:41,758 - utils.logger - INFO - Обновление данных созданного профиля...
+2024-06-30 15:06:41,758 - utils.logger - INFO - Username для обновления: vishnjakovratibor
+2024-06-30 15:06:41,758 - utils.logger - INFO - Обновлённые данные профиля: {'id': '54', 'username': 'vishnjakovratibor', 'firstName': 'Ryan', 'lastName': 'Мамонтов', 'email': 'fokinustin@example.org', 'password': 'eqN5#2Ml#9', 'phone': '+79229644059', 'userStatus': 37}
+2024-06-30 15:06:42,900 - utils.logger - INFO - Тело ответа: {"code":200,"type":"unknown","message":"54"}
+2024-06-30 15:09:14,222 - utils.logger - INFO - Созданный пользователь (в фикстуре created_user): {'id': '31', 'username': 'askoldhohlov', 'firstName': 'Нина', 'lastName': 'Виноградов', 'email': 'emeljanbolshakov@example.com', 'password': 'uY6YBgpd^t', 'phone': '+79229648555', 'userStatus': 31}
+2024-06-30 15:09:14,223 - utils.logger - INFO - Создание пользователя...
+2024-06-30 15:09:15,342 - utils.logger - INFO - Тест 'test_create_user' - Данные пользователя: {'id': '31', 'username': 'askoldhohlov', 'firstName': 'Нина', 'lastName': 'Виноградов', 'email': 'emeljanbolshakov@example.com', 'password': 'uY6YBgpd^t', 'phone': '+79229648555', 'userStatus': 31}
+2024-06-30 15:09:15,342 - utils.logger - INFO - Полученные данные с сервера: {'code': 200, 'type': 'unknown', 'message': '31'}
+2024-06-30 15:09:15,344 - utils.logger - INFO - ID в ответе (31) соответствует ожидаемому ID (31)
+2024-06-30 15:09:15,348 - utils.logger - INFO - Получить данные созданного профиля...
+2024-06-30 15:09:16,460 - utils.logger - INFO - Тест 'test_get_user' - Данные пользователя: {'id': '31', 'username': 'askoldhohlov', 'firstName': 'Нина', 'lastName': 'Виноградов', 'email': 'emeljanbolshakov@example.com', 'password': 'uY6YBgpd^t', 'phone': '+79229648555', 'userStatus': 31}
+2024-06-30 15:09:16,461 - utils.logger - INFO - Ответ сервера: {"id":31,"username":"askoldhohlov","firstName":"Нина","lastName":"Виноградов","email":"emeljanbolshakov@example.com","password":"uY6YBgpd^t","phone":"+79229648555","userStatus":31}
+2024-06-30 15:09:16,461 - utils.logger - INFO - Заголовки ответа: {'Date': 'Sun, 30 Jun 2024 12:09:15 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, PUT', 'Access-Control-Allow-Headers': 'Content-Type, api_key, Authorization', 'Server': 'Jetty(9.2.9.v20150224)'}
+2024-06-30 15:09:16,461 - utils.logger - INFO - Полученные данные с сервера: {'id': 31, 'username': 'askoldhohlov', 'firstName': 'Нина', 'lastName': 'Виноградов', 'email': 'emeljanbolshakov@example.com', 'password': 'uY6YBgpd^t', 'phone': '+79229648555', 'userStatus': 31}
+2024-06-30 15:09:16,464 - utils.logger - INFO - Данные пользователя успешно проверены и соответствуют ожидаемым значениям
+2024-06-30 15:09:16,467 - utils.logger - INFO - Обновление данных созданного профиля...
+2024-06-30 15:09:16,467 - utils.logger - INFO - Username для обновления: askoldhohlov
+2024-06-30 15:09:16,467 - utils.logger - INFO - Обновлённые данные профиля: {'id': '31', 'username': 'askoldhohlov', 'firstName': 'Ryan', 'lastName': 'Виноградов', 'email': 'emeljanbolshakov@example.com', 'password': 'uY6YBgpd^t', 'phone': '+79229648555', 'userStatus': 31}
+2024-06-30 15:09:17,661 - utils.logger - INFO - Тело ответа: {"code":200,"type":"unknown","message":"31"}
+2024-06-30 15:09:17,665 - utils.logger - INFO - Удаление созданного профиля...
+2024-06-30 15:09:17,665 - utils.logger - INFO - Username для удаления: askoldhohlov
+2024-06-30 15:09:18,780 - utils.logger - INFO - Тело ответа: {"code":200,"type":"unknown","message":"askoldhohlov"}
+2024-06-30 15:09:18,780 - utils.logger - INFO - Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'askoldhohlov'}
+2024-06-30 15:09:18,780 - utils.logger - INFO - Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'askoldhohlov'}
+2024-06-30 15:09:18,784 - utils.logger - INFO - Вход в систему пользователем...
+2024-06-30 15:09:18,784 - utils.logger - INFO - Username: askoldhohlov
+2024-06-30 15:09:18,784 - utils.logger - INFO - Password: uY6YBgpd^t
+2024-06-30 15:09:19,944 - utils.logger - INFO - Тело ответа: {"code":200,"type":"unknown","message":"logged in user session:1719749358869"}
+2024-06-30 15:09:19,944 - utils.logger - INFO - Вход в систему выполнен успешно
+2024-06-30 15:09:19,948 - utils.logger - INFO - Выход из системы пользователем...
+2024-06-30 15:09:21,061 - utils.logger - INFO - Тело ответа: {"code":200,"type":"unknown","message":"ok"}
+2024-06-30 15:09:21,061 - utils.logger - INFO - Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'ok'}
+2024-06-30 15:09:21,061 - utils.logger - INFO - Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'ok'}
+2024-06-30 15:09:21,061 - utils.logger - INFO - Выход из системы выполнен успешно!
+2024-06-30 15:09:21,065 - utils.logger - INFO - Получение данных с несуществующим пользователем: Ryan Gosling
+2024-06-30 15:09:22,221 - utils.logger - INFO - Тело ответа: {"code":1,"type":"error","message":"User not found"}
+2024-06-30 15:09:22,221 - utils.logger - INFO - Ожидаемый результат: {'code': 1, 'type': 'error', 'message': 'User not found'}
+2024-06-30 15:09:22,221 - utils.logger - INFO - Фактический результат: {'code': 1, 'type': 'error', 'message': 'User not found'}
+2024-06-30 15:13:33,223 - utils.logger - INFO - Созданный пользователь (в фикстуре created_user): {'id': '4', 'username': 'emeljan88', 'firstName': 'Юрий', 'lastName': 'Мартынова', 'email': 'nazar_46@example.com', 'password': 'QR*5Upne@%', 'phone': '+79229647021', 'userStatus': 30}
+2024-06-30 15:13:33,224 - utils.logger - INFO - Создание пользователя...
+2024-06-30 15:13:34,347 - utils.logger - INFO - Тест 'test_create_user' - Данные пользователя: {'id': '4', 'username': 'emeljan88', 'firstName': 'Юрий', 'lastName': 'Мартынова', 'email': 'nazar_46@example.com', 'password': 'QR*5Upne@%', 'phone': '+79229647021', 'userStatus': 30}
+2024-06-30 15:13:34,347 - utils.logger - INFO - Полученные данные с сервера: {'code': 200, 'type': 'unknown', 'message': '4'}
+2024-06-30 15:13:34,348 - utils.logger - INFO - ID в ответе (4) соответствует ожидаемому ID (4)
+2024-06-30 15:13:34,352 - utils.logger - INFO - Получить данные созданного профиля...
+2024-06-30 15:13:35,542 - utils.logger - INFO - Тест 'test_get_user' - Данные пользователя: {'id': '4', 'username': 'emeljan88', 'firstName': 'Юрий', 'lastName': 'Мартынова', 'email': 'nazar_46@example.com', 'password': 'QR*5Upne@%', 'phone': '+79229647021', 'userStatus': 30}
+2024-06-30 15:13:35,543 - utils.logger - INFO - Ответ сервера: {"id":4,"username":"emeljan88","firstName":"Юрий","lastName":"Мартынова","email":"nazar_46@example.com","password":"QR*5Upne@%","phone":"+79229647021","userStatus":30}
+2024-06-30 15:13:35,543 - utils.logger - INFO - Заголовки ответа: {'Date': 'Sun, 30 Jun 2024 12:13:34 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, PUT', 'Access-Control-Allow-Headers': 'Content-Type, api_key, Authorization', 'Server': 'Jetty(9.2.9.v20150224)'}
+2024-06-30 15:13:35,543 - utils.logger - INFO - Полученные данные с сервера: {'id': 4, 'username': 'emeljan88', 'firstName': 'Юрий', 'lastName': 'Мартынова', 'email': 'nazar_46@example.com', 'password': 'QR*5Upne@%', 'phone': '+79229647021', 'userStatus': 30}
+2024-06-30 15:13:35,546 - utils.logger - INFO - Данные пользователя успешно проверены и соответствуют ожидаемым значениям
+2024-06-30 15:13:35,550 - utils.logger - INFO - Обновление данных созданного профиля...
+2024-06-30 15:13:35,550 - utils.logger - INFO - Username для обновления: emeljan88
+2024-06-30 15:13:35,550 - utils.logger - INFO - Обновлённые данные профиля: {'id': '4', 'username': 'emeljan88', 'firstName': 'Ryan', 'lastName': 'Мартынова', 'email': 'nazar_46@example.com', 'password': 'QR*5Upne@%', 'phone': '+79229647021', 'userStatus': 30}
+2024-06-30 15:13:36,667 - utils.logger - INFO - Тело ответа: {"code":200,"type":"unknown","message":"4"}
+2024-06-30 15:13:36,671 - utils.logger - INFO - Удаление созданного профиля...
+2024-06-30 15:13:36,671 - utils.logger - INFO - Username для удаления: emeljan88
+2024-06-30 15:13:37,783 - utils.logger - INFO - Тело ответа: {"code":200,"type":"unknown","message":"emeljan88"}
+2024-06-30 15:13:37,783 - utils.logger - INFO - Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'emeljan88'}
+2024-06-30 15:13:37,783 - utils.logger - INFO - Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'emeljan88'}

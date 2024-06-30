@@ -1,0 +1,3 @@
+Username для обновления: tit_74
+Обновлённые данные профиля: {'id': '92', 'username': 'tit_74', 'firstName': 'Ryan', 'lastName': 'Русакова', 'email': 'anikita_96@example.net', 'password': 'F2G1QZd&*7', 'phone': '+79229643916', 'userStatus': 73}
+Тело ответа: {"code":200,"type":"unknown","message":"92"}

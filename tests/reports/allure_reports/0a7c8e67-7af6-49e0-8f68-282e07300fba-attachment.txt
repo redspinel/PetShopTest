@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: ratmir_2023
+Тело ответа: {"code":200,"type":"unknown","message":"ratmir_2023"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'ratmir_2023'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'ratmir_2023'}

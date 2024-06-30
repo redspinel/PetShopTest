@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: uvolkova
+Тело ответа: {"code":200,"type":"unknown","message":"uvolkova"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'uvolkova'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'uvolkova'}

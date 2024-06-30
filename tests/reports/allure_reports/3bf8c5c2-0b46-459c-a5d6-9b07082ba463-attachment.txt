@@ -1,0 +1,5 @@
+Вход в систему пользователем...
+Username: ratmir_2023
+Password: #9kMNJbiCq
+Тело ответа: {"code":200,"type":"unknown","message":"logged in user session:1719747677078"}
+Вход в систему выполнен успешно

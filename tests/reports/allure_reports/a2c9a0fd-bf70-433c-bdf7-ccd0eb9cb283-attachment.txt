@@ -1,0 +1,5 @@
+Вход в систему с недействительными учетными данными...
+Username: uvolkova
+Пароль: wrongpassword123
+HTTP статус код ответа: 200
+Тело ответа: {"code":200,"type":"unknown","message":"logged in user session:1719748566221"}

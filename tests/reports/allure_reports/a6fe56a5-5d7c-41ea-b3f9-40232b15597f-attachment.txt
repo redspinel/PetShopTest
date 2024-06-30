@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: jnaumov
+Тело ответа: {"code":200,"type":"unknown","message":"jnaumov"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'jnaumov'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'jnaumov'}

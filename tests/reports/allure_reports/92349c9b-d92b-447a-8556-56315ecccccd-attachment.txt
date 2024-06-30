@@ -1,0 +1,5 @@
+Вход в систему пользователем...
+Username: vishnjakovratibor
+Password: eqN5#2Ml#9
+Тело ответа: {"code":200,"type":"unknown","message":"logged in user session:1719749204279"}
+Вход в систему выполнен успешно

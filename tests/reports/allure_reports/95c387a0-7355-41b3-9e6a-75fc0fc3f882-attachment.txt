@@ -1,0 +1,4 @@
+Username для удаления: tit_74
+Тело ответа: {"code":200,"type":"unknown","message":"tit_74"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'tit_74'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'tit_74'}

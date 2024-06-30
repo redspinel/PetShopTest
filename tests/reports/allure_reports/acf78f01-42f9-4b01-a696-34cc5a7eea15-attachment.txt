@@ -1,0 +1,4 @@
+INFO     utils.logger:logger.py:30 Начало измерения времени отклика при создании пользователя...
+INFO     utils.logger:logger.py:30 Время отклика: 1.2709200382232666 секунд
+INFO     utils.logger:logger.py:30 Время ответа в пределах нормы: 1.2709200382232666 секунд
+INFO     utils.logger:logger.py:30 HTTP статус код ответа: 200

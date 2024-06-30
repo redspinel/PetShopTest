@@ -1,0 +1,4 @@
+Обновление данных созданного профиля...
+Username для обновления: ostap_29
+Обновлённые данные профиля: {'id': '40', 'username': 'ostap_29', 'firstName': 'Ryan', 'lastName': 'Романова', 'email': 'amvrosi_17@example.net', 'password': 'rC#2ENKk)g', 'phone': '+79229640684', 'userStatus': 38}
+Тело ответа: {"code":200,"type":"unknown","message":"40"}

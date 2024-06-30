@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: samolovkallistrat
+Тело ответа: {"code":200,"type":"unknown","message":"samolovkallistrat"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'samolovkallistrat'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'samolovkallistrat'}

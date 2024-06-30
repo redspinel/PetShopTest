@@ -1,0 +1,4 @@
+Обновление данных созданного профиля...
+Username для обновления: sofon51
+Обновлённые данные профиля: {'id': '29', 'username': 'sofon51', 'firstName': 'Ryan', 'lastName': 'Рябов', 'email': 'mkalinin@example.org', 'password': 'tYvLfUpw@4', 'phone': '+79229646460', 'userStatus': 34}
+Тело ответа: {"code":200,"type":"unknown","message":"29"}

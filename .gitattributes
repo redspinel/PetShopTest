@@ -1,0 +1,3 @@
+echo "logs/" >> .gitignore
+echo "tests/reports/allure_reports/" >> .gitignore
+echo "*.txt text eol=lf" >> .gitattributes

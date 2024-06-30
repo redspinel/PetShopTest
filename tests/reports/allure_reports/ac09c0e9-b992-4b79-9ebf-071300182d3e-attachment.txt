@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: zinovevharlampi
+Тело ответа: {"code":200,"type":"unknown","message":"zinovevharlampi"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'zinovevharlampi'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'zinovevharlampi'}

@@ -1,0 +1,4 @@
+Создание пользователей с массивом данных...
+Данные пользователей: [{'id': 1, 'username': 'user1', 'firstName': 'First1', 'lastName': 'Last1', 'email': 'user1@example.com', 'password': 'password1', 'phone': '1234567890', 'userStatus': 0}, {'id': 2, 'username': 'user2', 'firstName': 'First2', 'lastName': 'Last2', 'email': 'user2@example.com', 'password': 'password2', 'phone': '1234567891', 'userStatus': 0}]
+Тело ответа: {"code":200,"type":"unknown","message":"ok"}
+Ответ соответствует ожидаемой схеме.

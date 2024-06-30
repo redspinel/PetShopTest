@@ -1,0 +1,2 @@
+Username для удаления: eleonora_23
+Тело ответа: {"code":200,"type":"unknown","message":"eleonora_23"}

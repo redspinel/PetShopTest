@@ -1,0 +1,5 @@
+Отправляем обновлённые данные профиля...
+Username для обновления: evsealeksandrov
+Обновлённые данные профиля: {'id': '60', 'username': 'evsealeksandrov', 'firstName': 'Ryan', 'lastName': 'Матвеев', 'email': 'andreevmihail@example.net', 'password': 'w$6gKko@%G', 'phone': '+79229645544', 'userStatus': 61}
+HTTP статус код ответа: 200
+Тело ответа: {"code":200,"type":"unknown","message":"60"}

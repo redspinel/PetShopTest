@@ -1,0 +1,4 @@
+Получение данных с несуществующим пользователем: Ryan Gosling
+Тело ответа: {"code":1,"type":"error","message":"User not found"}
+Ожидаемый результат: {'code': 404, 'type': 'unknown', 'message': 'User not found'}
+Фактический результат: {'code': 1, 'type': 'error', 'message': 'User not found'}

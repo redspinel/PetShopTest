@@ -1,0 +1,3 @@
+{'id': 44, 'username': 'user1', 'firstName': 'Екатерина', 'lastName': 'Рябов', 'email': 'fedosi2007@example.net', 'password': '^ATXRhyc4m', 'phone': '+79229646216', 'userStatus': 79}
+<Response [200]>
+{'code': 200, 'type': 'unknown', 'message': '44'}

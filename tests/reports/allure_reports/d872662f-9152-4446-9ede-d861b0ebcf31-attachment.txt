@@ -1,0 +1,5 @@
+INFO     utils.logger:logger.py:30 Создание пользователя с существующим именем пользователя...
+INFO     utils.logger:logger.py:30 Попытка создать пользователя с данными: {'id': '4', 'username': 'emeljan88', 'firstName': 'Ryan', 'lastName': 'Мартынова', 'email': 'RyanGosling@gmail.com', 'password': 'QR*5Upne@%', 'phone': '+79229647021', 'userStatus': 30}
+INFO     utils.logger:logger.py:30 Тело ответа: {"code":200,"type":"unknown","message":"4"}
+INFO     utils.logger:logger.py:30 Заголовки ответа: {'Date': 'Sun, 30 Jun 2024 12:13:41 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, PUT', 'Access-Control-Allow-Headers': 'Content-Type, api_key, Authorization', 'Server': 'Jetty(9.2.9.v20150224)'}
+INFO     utils.logger:logger.py:30 Ожидаемый статус: 200, фактический статус: 200

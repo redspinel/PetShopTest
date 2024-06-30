@@ -1,0 +1,37 @@
+2024-06-30 14:41:12,416 - utils.logger - INFO - Созданный пользователь (в фикстуре created_user): {'id': '14', 'username': 'ratmir_2023', 'firstName': 'Фома', 'lastName': 'Чернов', 'email': 'gerasimromanov@example.net', 'password': '#9kMNJbiCq', 'phone': '+79229647942', 'userStatus': 89}
+2024-06-30 14:41:12,417 - utils.logger - INFO - Создание пользователя...
+2024-06-30 14:41:13,529 - utils.logger - INFO - Тест 'test_create_user' - Данные пользователя: {'id': '14', 'username': 'ratmir_2023', 'firstName': 'Фома', 'lastName': 'Чернов', 'email': 'gerasimromanov@example.net', 'password': '#9kMNJbiCq', 'phone': '+79229647942', 'userStatus': 89}
+2024-06-30 14:43:24,869 - utils.logger - INFO - Созданный пользователь (в фикстуре created_user): {'id': '52', 'username': 'bikovlavrenti', 'firstName': 'Наум', 'lastName': 'Соболева', 'email': 'tihon67@example.net', 'password': 'u+0%@UEi04', 'phone': '+79229640920', 'userStatus': 23}
+2024-06-30 14:43:24,870 - utils.logger - INFO - Создание пользователя...
+2024-06-30 14:43:26,052 - utils.logger - INFO - Тест 'test_create_user' - Данные пользователя: {'id': '52', 'username': 'bikovlavrenti', 'firstName': 'Наум', 'lastName': 'Соболева', 'email': 'tihon67@example.net', 'password': 'u+0%@UEi04', 'phone': '+79229640920', 'userStatus': 23}
+2024-06-30 14:51:13,021 - utils.logger - INFO - Созданный пользователь (в фикстуре created_user): {'id': '54', 'username': 'fedorkondratev', 'firstName': 'Сергей', 'lastName': 'Юдин', 'email': 'miroslav17@example.com', 'password': 'e%rdf7Gg@y', 'phone': '+79229648335', 'userStatus': 97}
+2024-06-30 14:51:13,022 - utils.logger - INFO - Создание пользователя...
+2024-06-30 14:51:14,133 - utils.logger - INFO - Тест 'test_create_user' - Данные пользователя: {'id': '54', 'username': 'fedorkondratev', 'firstName': 'Сергей', 'lastName': 'Юдин', 'email': 'miroslav17@example.com', 'password': 'e%rdf7Gg@y', 'phone': '+79229648335', 'userStatus': 97}
+2024-06-30 14:51:14,138 - utils.logger - INFO - Получить данные созданного профиля...
+2024-06-30 14:51:15,333 - utils.logger - INFO - Тест 'test_get_user' - Данные пользователя: {'id': '54', 'username': 'fedorkondratev', 'firstName': 'Сергей', 'lastName': 'Юдин', 'email': 'miroslav17@example.com', 'password': 'e%rdf7Gg@y', 'phone': '+79229648335', 'userStatus': 97}
+2024-06-30 14:51:15,333 - utils.logger - INFO - Полученные данные с сервера: {'id': 54, 'username': 'fedorkondratev', 'firstName': 'Сергей', 'lastName': 'Юдин', 'email': 'miroslav17@example.com', 'password': 'e%rdf7Gg@y', 'phone': '+79229648335', 'userStatus': 97}
+2024-06-30 14:51:15,339 - utils.logger - INFO - Обновление данных созданного профиля...
+2024-06-30 14:51:15,339 - utils.logger - INFO - Username для обновления: fedorkondratev
+2024-06-30 14:51:15,339 - utils.logger - INFO - Обновлённые данные профиля: {'id': '54', 'username': 'fedorkondratev', 'firstName': 'Ryan', 'lastName': 'Юдин', 'email': 'miroslav17@example.com', 'password': 'e%rdf7Gg@y', 'phone': '+79229648335', 'userStatus': 97}
+2024-06-30 14:51:16,497 - utils.logger - INFO - Тело ответа: {"code":200,"type":"unknown","message":"54"}
+2024-06-30 14:53:16,213 - utils.logger - INFO - Созданный пользователь (в фикстуре created_user): {'id': '96', 'username': 'savvaevdokimov', 'firstName': 'Игнатий', 'lastName': 'Горшков', 'email': 'simonovsilanti@example.com', 'password': 'z2BO55Nm7+', 'phone': '+79229645459', 'userStatus': 24}
+2024-06-30 14:53:16,214 - utils.logger - INFO - Создание пользователя...
+2024-06-30 14:53:17,354 - utils.logger - INFO - Тест 'test_create_user' - Данные пользователя: {'id': '96', 'username': 'savvaevdokimov', 'firstName': 'Игнатий', 'lastName': 'Горшков', 'email': 'simonovsilanti@example.com', 'password': 'z2BO55Nm7+', 'phone': '+79229645459', 'userStatus': 24}
+2024-06-30 14:53:17,360 - utils.logger - INFO - Получить данные созданного профиля...
+2024-06-30 14:53:18,492 - utils.logger - INFO - Тест 'test_get_user' - Данные пользователя: {'id': '96', 'username': 'savvaevdokimov', 'firstName': 'Игнатий', 'lastName': 'Горшков', 'email': 'simonovsilanti@example.com', 'password': 'z2BO55Nm7+', 'phone': '+79229645459', 'userStatus': 24}
+2024-06-30 14:53:18,493 - utils.logger - INFO - Полученные данные с сервера: {'id': 96, 'username': 'savvaevdokimov', 'firstName': 'Игнатий', 'lastName': 'Горшков', 'email': 'simonovsilanti@example.com', 'password': 'z2BO55Nm7+', 'phone': '+79229645459', 'userStatus': 24}
+2024-06-30 14:53:18,500 - utils.logger - INFO - Обновление данных созданного профиля...
+2024-06-30 14:53:18,500 - utils.logger - INFO - Username для обновления: savvaevdokimov
+2024-06-30 14:53:18,500 - utils.logger - INFO - Обновлённые данные профиля: {'id': '96', 'username': 'savvaevdokimov', 'firstName': 'Ryan', 'lastName': 'Горшков', 'email': 'simonovsilanti@example.com', 'password': 'z2BO55Nm7+', 'phone': '+79229645459', 'userStatus': 24}
+2024-06-30 14:53:19,613 - utils.logger - INFO - Тело ответа: {"code":200,"type":"unknown","message":"96"}
+2024-06-30 14:55:57,177 - utils.logger - INFO - Созданный пользователь (в фикстуре created_user): {'id': '39', 'username': 'uvolkova', 'firstName': 'Селиван', 'lastName': 'Степанова', 'email': 'blohinplaton@example.com', 'password': '(4NFsow8qQ', 'phone': '+79229643171', 'userStatus': 10}
+2024-06-30 14:55:57,178 - utils.logger - INFO - Создание пользователя...
+2024-06-30 14:55:58,304 - utils.logger - INFO - Тест 'test_create_user' - Данные пользователя: {'id': '39', 'username': 'uvolkova', 'firstName': 'Селиван', 'lastName': 'Степанова', 'email': 'blohinplaton@example.com', 'password': '(4NFsow8qQ', 'phone': '+79229643171', 'userStatus': 10}
+2024-06-30 14:59:53,380 - utils.logger - INFO - Созданный пользователь (в фикстуре created_user): {'id': '2', 'username': 'zinovevharlampi', 'firstName': 'Стоян', 'lastName': 'Мишин', 'email': 'wkarpova@example.net', 'password': ')z$1hEPa3x', 'phone': '+79229640894', 'userStatus': 94}
+2024-06-30 14:59:53,381 - utils.logger - INFO - Создание пользователя...
+2024-06-30 14:59:54,537 - utils.logger - INFO - Тест 'test_create_user' - Данные пользователя: {'id': '2', 'username': 'zinovevharlampi', 'firstName': 'Стоян', 'lastName': 'Мишин', 'email': 'wkarpova@example.net', 'password': ')z$1hEPa3x', 'phone': '+79229640894', 'userStatus': 94}
+2024-06-30 15:03:37,378 - utils.logger - INFO - Созданный пользователь (в фикстуре created_user): {'id': '15', 'username': 'vikentiorlov', 'firstName': 'Амос', 'lastName': 'Назарова', 'email': 'zahar_59@example.com', 'password': 'ol#8F3Icn8', 'phone': '+79229645064', 'userStatus': 54}
+2024-06-30 15:03:37,379 - utils.logger - INFO - Создание пользователя...
+2024-06-30 15:03:38,539 - utils.logger - INFO - Тест 'test_create_user' - Данные пользователя: {'id': '15', 'username': 'vikentiorlov', 'firstName': 'Амос', 'lastName': 'Назарова', 'email': 'zahar_59@example.com', 'password': 'ol#8F3Icn8', 'phone': '+79229645064', 'userStatus': 54}
+2024-06-30 15:03:38,540 - utils.logger - INFO - Полученные данные с сервера: {'code': 200, 'type': 'unknown', 'message': '15'}
+2024-06-30 15:03:38,541 - utils.logger - INFO - ID в ответе (15) соответствует ожидаемому ID (15)

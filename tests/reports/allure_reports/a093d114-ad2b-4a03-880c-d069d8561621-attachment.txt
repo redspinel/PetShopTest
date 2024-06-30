@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: wmolchanov
+Тело ответа: {"code":200,"type":"unknown","message":"wmolchanov"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'wmolchanov'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'wmolchanov'}

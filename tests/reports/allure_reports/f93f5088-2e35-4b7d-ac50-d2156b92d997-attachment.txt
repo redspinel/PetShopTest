@@ -1,0 +1,4 @@
+Обновление данных созданного профиля...
+Username для обновления: ilinmakar
+Обновлённые данные профиля: {'id': '53', 'username': 'ilinmakar', 'firstName': 'Ryan', 'lastName': 'Васильев', 'email': 'elizaveta42@example.net', 'password': '^pcqAAckG9', 'phone': '+79229640116', 'userStatus': 33}
+Тело ответа: {"code":200,"type":"unknown","message":"53"}

@@ -1,0 +1,5 @@
+INFO     utils.logger:logger.py:30 Удаление созданного профиля...
+INFO     utils.logger:logger.py:30 Username для удаления: emeljan88
+INFO     utils.logger:logger.py:30 Тело ответа: {"code":200,"type":"unknown","message":"emeljan88"}
+INFO     utils.logger:logger.py:30 Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'emeljan88'}
+INFO     utils.logger:logger.py:30 Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'emeljan88'}

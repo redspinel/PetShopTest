@@ -1,0 +1,5 @@
+Вход в систему с недействительными учетными данными...
+Username: jaroslavkuznetsov
+Пароль: wrongpassword
+Тело ответа: {"code":200,"type":"unknown","message":"logged in user session:1719744090301"}
+Фактическое тело ответа: {'code': 200, 'type': 'unknown', 'message': 'logged in user session:1719744090301'}

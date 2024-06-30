@@ -1,0 +1,5 @@
+Вход в систему пользователем...
+Username: jaroslavkuznetsov
+Password: p5&eUDsQ%W
+Тело ответа: {"code":200,"type":"unknown","message":"logged in user session:1719744085741"}
+Вход в систему выполнен успешно

@@ -1,0 +1,4 @@
+INFO     utils.logger:logger.py:30 Обновление данных созданного профиля...
+INFO     utils.logger:logger.py:30 Username для обновления: askoldhohlov
+INFO     utils.logger:logger.py:30 Обновлённые данные профиля: {'id': '31', 'username': 'askoldhohlov', 'firstName': 'Ryan', 'lastName': 'Виноградов', 'email': 'emeljanbolshakov@example.com', 'password': 'uY6YBgpd^t', 'phone': '+79229648555', 'userStatus': 31}
+INFO     utils.logger:logger.py:30 Тело ответа: {"code":200,"type":"unknown","message":"31"}

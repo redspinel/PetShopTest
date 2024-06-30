@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: danilovaakulina
+Тело ответа: {"code":200,"type":"unknown","message":"danilovaakulina"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'danilovaakulina'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'danilovaakulina'}

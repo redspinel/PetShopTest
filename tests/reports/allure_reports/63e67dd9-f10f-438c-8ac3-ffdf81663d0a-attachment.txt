@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: savvati_1994
+Тело ответа: {"code":200,"type":"unknown","message":"savvati_1994"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'savvati_1994'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'savvati_1994'}

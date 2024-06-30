@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: ostap_29
+Тело ответа: {"code":200,"type":"unknown","message":"ostap_29"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'ostap_29'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'ostap_29'}

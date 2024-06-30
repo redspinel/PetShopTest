@@ -1,0 +1,4 @@
+Username для удаления: ija_1970
+Тело ответа: {"code":200,"type":"unknown","message":"ija_1970"}
+Ожидаемое тело ответа: {'code': 200, 'type': 'unknown', 'message': 'ija_1970'}
+Фактическое тело ответа: {'code': 200, 'type': 'unknown', 'message': 'ija_1970'}

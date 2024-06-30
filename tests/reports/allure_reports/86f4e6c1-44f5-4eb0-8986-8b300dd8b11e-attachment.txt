@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: bikovlavrenti
+Тело ответа: {"code":200,"type":"unknown","message":"bikovlavrenti"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'bikovlavrenti'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'bikovlavrenti'}

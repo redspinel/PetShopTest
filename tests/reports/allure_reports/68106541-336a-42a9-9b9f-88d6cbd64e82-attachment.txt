@@ -1,0 +1,5 @@
+Вход в систему пользователем...
+Username: sofon51
+Password: tYvLfUpw@4
+Тело ответа: {"code":200,"type":"unknown","message":"logged in user session:1719742575108"}
+Вход в систему выполнен успешно

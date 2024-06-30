@@ -1,0 +1,4 @@
+Обновление данных созданного профиля...
+Username для обновления: afanasi1984
+Обновлённые данные профиля: {'id': '15', 'username': 'afanasi1984', 'firstName': 'Ryan', 'lastName': 'Козлов', 'email': 'avdeevaraisa@example.net', 'password': 'OAkJ5yNp%1', 'phone': '+79229640366', 'userStatus': 30}
+Тело ответа: {"code":200,"type":"unknown","message":"15"}

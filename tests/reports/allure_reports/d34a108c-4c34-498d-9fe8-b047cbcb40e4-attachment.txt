@@ -1,0 +1,4 @@
+Обновление данных созданного профиля...
+Username для обновления: danilovaakulina
+Обновлённые данные профиля: {'id': '13', 'username': 'danilovaakulina', 'firstName': 'Ryan', 'lastName': 'Одинцова', 'email': 'knjazevhristofor@example.net', 'password': '!2U0Q0MrFn', 'phone': '+79229642726', 'userStatus': 23}
+Тело ответа: {"code":200,"type":"unknown","message":"13"}

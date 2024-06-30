@@ -1,0 +1,2 @@
+Созданный пользователь (в фикстуре created_user): {'id': '88', 'username': 'eleonora_23', 'firstName': 'Пров', 'lastName': 'Ковалев', 'email': 'orehovsamuil@example.com', 'password': '6uVnndUa!y', 'phone': '+79229646139', 'userStatus': 25}
+Тест 'test_create_user' - Данные пользователя: {'id': '88', 'username': 'eleonora_23', 'firstName': 'Пров', 'lastName': 'Ковалев', 'email': 'orehovsamuil@example.com', 'password': '6uVnndUa!y', 'phone': '+79229646139', 'userStatus': 25}

@@ -1,0 +1,5 @@
+Вход в систему пользователем...
+Username: savvaevdokimov
+Password: z2BO55Nm7+
+Тело ответа: {"code":200,"type":"unknown","message":"logged in user session:1719748400901"}
+Вход в систему выполнен успешно

@@ -1,0 +1,5 @@
+INFO     utils.logger:logger.py:30 Вход в систему пользователем...
+INFO     utils.logger:logger.py:30 Username: askoldhohlov
+INFO     utils.logger:logger.py:30 Password: uY6YBgpd^t
+INFO     utils.logger:logger.py:30 Тело ответа: {"code":200,"type":"unknown","message":"logged in user session:1719749358869"}
+INFO     utils.logger:logger.py:30 Вход в систему выполнен успешно

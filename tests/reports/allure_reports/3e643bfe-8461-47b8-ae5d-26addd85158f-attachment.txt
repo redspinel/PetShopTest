@@ -1,0 +1,5 @@
+INFO     utils.logger:logger.py:30 Созданный пользователь (в фикстуре created_user): {'id': '31', 'username': 'askoldhohlov', 'firstName': 'Нина', 'lastName': 'Виноградов', 'email': 'emeljanbolshakov@example.com', 'password': 'uY6YBgpd^t', 'phone': '+79229648555', 'userStatus': 31}
+INFO     utils.logger:logger.py:30 Создание пользователя...
+INFO     utils.logger:logger.py:30 Тест 'test_create_user' - Данные пользователя: {'id': '31', 'username': 'askoldhohlov', 'firstName': 'Нина', 'lastName': 'Виноградов', 'email': 'emeljanbolshakov@example.com', 'password': 'uY6YBgpd^t', 'phone': '+79229648555', 'userStatus': 31}
+INFO     utils.logger:logger.py:30 Полученные данные с сервера: {'code': 200, 'type': 'unknown', 'message': '31'}
+INFO     utils.logger:logger.py:30 ID в ответе (31) соответствует ожидаемому ID (31)

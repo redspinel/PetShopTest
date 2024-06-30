@@ -1,0 +1,5 @@
+2024-06-30 15:05:43,819 - utils.logger - INFO - Созданный пользователь (в фикстуре created_user): {'id': '81', 'username': 'miron_1994', 'firstName': 'Гремислав', 'lastName': 'Мамонтов', 'email': 'askoldveselov@example.com', 'password': '!9EIKf@p7f', 'phone': '+79229644799', 'userStatus': 55}
+2024-06-30 15:05:43,820 - utils.logger - INFO - Создание пользователя...
+2024-06-30 15:05:44,953 - utils.logger - INFO - Тест 'test_create_user' - Данные пользователя: {'id': '81', 'username': 'miron_1994', 'firstName': 'Гремислав', 'lastName': 'Мамонтов', 'email': 'askoldveselov@example.com', 'password': '!9EIKf@p7f', 'phone': '+79229644799', 'userStatus': 55}
+2024-06-30 15:05:44,953 - utils.logger - INFO - Полученные данные с сервера: {'code': 200, 'type': 'unknown', 'message': '81'}
+2024-06-30 15:05:44,954 - utils.logger - INFO - ID в ответе (81) соответствует ожидаемому ID (81)

@@ -1,0 +1,5 @@
+Вход в систему пользователем...
+Username: afanasi1984
+Password: OAkJ5yNp%1
+Тело ответа: {"code":200,"type":"unknown","message":"logged in user session:1719743513242"}
+Вход в систему выполнен успешно

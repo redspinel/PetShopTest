@@ -1,0 +1,3 @@
+Username для обновления: ija_1970
+Обновлённые данные профиля: {'id': '59', 'username': 'ija_1970', 'firstName': 'Ryan', 'lastName': 'Колобов', 'email': 'sgordeev@example.net', 'password': '8(QMZsNP#h', 'phone': '+79229647732', 'userStatus': 80}
+Тело ответа: {"code":200,"type":"unknown","message":"59"}

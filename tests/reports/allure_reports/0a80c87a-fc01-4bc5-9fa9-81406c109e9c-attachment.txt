@@ -1,0 +1,2 @@
+Тест 'test_get_user' - Данные пользователя: {'id': '92', 'username': 'tit_74', 'firstName': 'Станислав', 'lastName': 'Русакова', 'email': 'anikita_96@example.net', 'password': 'F2G1QZd&*7', 'phone': '+79229643916', 'userStatus': 73}
+Полученные данные с сервера: {'id': 92, 'username': 'tit_74', 'firstName': 'Станислав', 'lastName': 'Русакова', 'email': 'anikita_96@example.net', 'password': 'F2G1QZd&*7', 'phone': '+79229643916', 'userStatus': 73}

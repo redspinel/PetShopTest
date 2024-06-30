@@ -1,0 +1,4 @@
+Выход из системы без входа...
+Тело ответа: {"code":200,"type":"unknown","message":"ok"}
+Ожидаемое тело ответа: {'code': 200, 'type': 'unknown', 'message': 'ok'}
+Фактическое тело ответа: {'code': 200, 'type': 'unknown', 'message': 'ok'}

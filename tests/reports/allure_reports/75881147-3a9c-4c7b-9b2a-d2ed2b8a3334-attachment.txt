@@ -1,0 +1,6 @@
+INFO     utils.logger:logger.py:30 Вход в систему с недействительными учетными данными...
+INFO     utils.logger:logger.py:30 Username: emeljan88
+INFO     utils.logger:logger.py:30 Пароль: wrongpassword123
+INFO     utils.logger:logger.py:30 HTTP статус код ответа: 200
+INFO     utils.logger:logger.py:30 Тело ответа: {"code":200,"type":"unknown","message":"logged in user session:1719749622669"}
+INFO     utils.logger:logger.py:30 Заголовки ответа: {'Date': 'Sun, 30 Jun 2024 12:13:42 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, PUT', 'Access-Control-Allow-Headers': 'Content-Type, api_key, Authorization', 'X-Expires-After': 'Sun Jun 30 13:13:42 UTC 2024', 'X-Rate-Limit': '5000', 'Server': 'Jetty(9.2.9.v20150224)'}

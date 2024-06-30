@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: jaroslavkuznetsov
+Тело ответа: {"code":200,"type":"unknown","message":"jaroslavkuznetsov"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'jaroslavkuznetsov'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'jaroslavkuznetsov'}

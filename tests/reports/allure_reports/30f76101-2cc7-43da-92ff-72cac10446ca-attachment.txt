@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: svjatopolk04
+Тело ответа: {"code":200,"type":"unknown","message":"svjatopolk04"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'svjatopolk04'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'svjatopolk04'}

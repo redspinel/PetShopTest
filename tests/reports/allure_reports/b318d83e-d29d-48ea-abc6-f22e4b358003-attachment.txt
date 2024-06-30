@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: vikentiorlov
+Тело ответа: {"code":200,"type":"unknown","message":"vikentiorlov"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'vikentiorlov'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'vikentiorlov'}

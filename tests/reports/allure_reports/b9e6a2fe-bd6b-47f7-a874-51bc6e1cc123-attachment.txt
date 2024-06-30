@@ -1,0 +1,4 @@
+Обновление данных созданного профиля...
+Username для обновления: svjatopolk04
+Обновлённые данные профиля: {'id': '31', 'username': 'svjatopolk04', 'firstName': 'Ryan', 'lastName': 'Михайлов', 'email': 'panovairina@example.org', 'password': 'WG@3V8Lm7*', 'phone': '+79229642756', 'userStatus': 82}
+Тело ответа: {"code":200,"type":"unknown","message":"31"}

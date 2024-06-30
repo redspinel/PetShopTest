@@ -1,0 +1,5 @@
+Вход в систему пользователем...
+Username: vikentiorlov
+Password: ol#8F3Icn8
+Тело ответа: {"code":200,"type":"unknown","message":"logged in user session:1719749021947"}
+Вход в систему выполнен успешно

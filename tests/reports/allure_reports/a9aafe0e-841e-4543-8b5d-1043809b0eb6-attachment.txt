@@ -1,0 +1,4 @@
+Обновление данных созданного профиля...
+Username для обновления: zinovevharlampi
+Обновлённые данные профиля: {'id': '2', 'username': 'zinovevharlampi', 'firstName': 'Ryan', 'lastName': 'Мишин', 'email': 'wkarpova@example.net', 'password': ')z$1hEPa3x', 'phone': '+79229640894', 'userStatus': 94}
+Тело ответа: {"code":200,"type":"unknown","message":"2"}

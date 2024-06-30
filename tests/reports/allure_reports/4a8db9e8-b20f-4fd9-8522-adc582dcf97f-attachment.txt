@@ -1,0 +1,3 @@
+INFO     utils.logger:logger.py:30 Созданный пользователь (в фикстуре created_user): {'id': '2', 'username': 'zinovevharlampi', 'firstName': 'Стоян', 'lastName': 'Мишин', 'email': 'wkarpova@example.net', 'password': ')z$1hEPa3x', 'phone': '+79229640894', 'userStatus': 94}
+INFO     utils.logger:logger.py:30 Создание пользователя...
+INFO     utils.logger:logger.py:30 Тест 'test_create_user' - Данные пользователя: {'id': '2', 'username': 'zinovevharlampi', 'firstName': 'Стоян', 'lastName': 'Мишин', 'email': 'wkarpova@example.net', 'password': ')z$1hEPa3x', 'phone': '+79229640894', 'userStatus': 94}

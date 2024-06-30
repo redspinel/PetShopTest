@@ -1,0 +1,3 @@
+Username для обновления: eleonora_23
+Обновлённые данные профиля: {'id': '88', 'username': 'eleonora_23', 'firstName': 'Ryan', 'lastName': 'Ковалев', 'email': 'orehovsamuil@example.com', 'password': '6uVnndUa!y', 'phone': '+79229646139', 'userStatus': 25}
+Тело ответа: {"code":200,"type":"unknown","message":"88"}

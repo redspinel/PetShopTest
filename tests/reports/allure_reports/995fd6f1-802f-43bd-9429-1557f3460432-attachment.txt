@@ -1,0 +1,4 @@
+INFO     utils.logger:logger.py:30 Получение данных с несуществующим пользователем: Ryan Gosling
+INFO     utils.logger:logger.py:30 Тело ответа: {"code":1,"type":"error","message":"User not found"}
+INFO     utils.logger:logger.py:30 Ожидаемый результат: {'code': 1, 'type': 'error', 'message': 'User not found'}
+INFO     utils.logger:logger.py:30 Фактический результат: {'code': 1, 'type': 'error', 'message': 'User not found'}

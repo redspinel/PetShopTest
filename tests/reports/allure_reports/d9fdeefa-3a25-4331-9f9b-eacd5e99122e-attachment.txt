@@ -1,0 +1,5 @@
+INFO     utils.logger:logger.py:30 Выход из системы пользователем...
+INFO     utils.logger:logger.py:30 Тело ответа: {"code":200,"type":"unknown","message":"ok"}
+INFO     utils.logger:logger.py:30 Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'ok'}
+INFO     utils.logger:logger.py:30 Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'ok'}
+INFO     utils.logger:logger.py:30 Выход из системы выполнен успешно!

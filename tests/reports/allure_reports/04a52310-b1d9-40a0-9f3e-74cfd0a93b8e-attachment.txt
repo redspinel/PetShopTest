@@ -1,0 +1,6 @@
+INFO     utils.logger:logger.py:30 Получить данные созданного профиля...
+INFO     utils.logger:logger.py:30 Тест 'test_get_user' - Данные пользователя: {'id': '81', 'username': 'miron_1994', 'firstName': 'Гремислав', 'lastName': 'Мамонтов', 'email': 'askoldveselov@example.com', 'password': '!9EIKf@p7f', 'phone': '+79229644799', 'userStatus': 55}
+INFO     utils.logger:logger.py:30 Ответ сервера: {"id":81,"username":"miron_1994","firstName":"Гремислав","lastName":"Мамонтов","email":"askoldveselov@example.com","password":"!9EIKf@p7f","phone":"+79229644799","userStatus":55}
+INFO     utils.logger:logger.py:30 Заголовки ответа: {'Date': 'Sun, 30 Jun 2024 12:05:44 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, PUT', 'Access-Control-Allow-Headers': 'Content-Type, api_key, Authorization', 'Server': 'Jetty(9.2.9.v20150224)'}
+INFO     utils.logger:logger.py:30 Полученные данные с сервера: {'id': 81, 'username': 'miron_1994', 'firstName': 'Гремислав', 'lastName': 'Мамонтов', 'email': 'askoldveselov@example.com', 'password': '!9EIKf@p7f', 'phone': '+79229644799', 'userStatus': 55}
+INFO     utils.logger:logger.py:30 Данные пользователя успешно проверены и соответствуют ожидаемым значениям

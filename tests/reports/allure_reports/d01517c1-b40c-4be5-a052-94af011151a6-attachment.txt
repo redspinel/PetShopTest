@@ -1,0 +1,2 @@
+{'id': 98, 'username': 'user1', 'firstName': 'Ермолай', 'lastName': 'Бирюков', 'email': 'makarovprokofi@example.net', 'password': ')*wmRpu@1h', 'phone': '+79229642466', 'userStatus': 6}
+{'code': 200, 'type': 'unknown', 'message': '98'}

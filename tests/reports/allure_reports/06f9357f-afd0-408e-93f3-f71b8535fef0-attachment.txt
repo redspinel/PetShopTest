@@ -1,0 +1,4 @@
+Обновление данных созданного профиля...
+Username для обновления: miron_1994
+Обновлённые данные профиля: {'id': '81', 'username': 'miron_1994', 'firstName': 'Ryan', 'lastName': 'Мамонтов', 'email': 'askoldveselov@example.com', 'password': '!9EIKf@p7f', 'phone': '+79229644799', 'userStatus': 55}
+Тело ответа: {"code":200,"type":"unknown","message":"81"}

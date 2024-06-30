@@ -1,0 +1,3 @@
+Получить данные созданного профиля...
+Тест 'test_get_user' - Данные пользователя: {'id': '31', 'username': 'svjatopolk04', 'firstName': 'Юрий', 'lastName': 'Михайлов', 'email': 'panovairina@example.org', 'password': 'WG@3V8Lm7*', 'phone': '+79229642756', 'userStatus': 82}
+Полученные данные с сервера: {'id': 31, 'username': 'svjatopolk04', 'firstName': 'Юрий', 'lastName': 'Михайлов', 'email': 'panovairina@example.org', 'password': 'WG@3V8Lm7*', 'phone': '+79229642756', 'userStatus': 82}

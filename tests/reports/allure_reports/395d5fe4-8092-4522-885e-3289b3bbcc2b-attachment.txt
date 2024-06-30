@@ -1,0 +1,5 @@
+Удаление созданного профиля...
+Username для удаления: afanasi1984
+Тело ответа: {"code":200,"type":"unknown","message":"afanasi1984"}
+Ожидаемый результат: {'code': 200, 'type': 'unknown', 'message': 'afanasi1984'}
+Фактический результат: {'code': 200, 'type': 'unknown', 'message': 'afanasi1984'}
